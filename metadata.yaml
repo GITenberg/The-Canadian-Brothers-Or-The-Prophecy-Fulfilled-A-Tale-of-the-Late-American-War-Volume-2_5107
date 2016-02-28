@@ -1,0 +1,26 @@
+_repo: The-Canadian-Brothers-Or-The-Prophecy-Fulfilled-A-Tale-of-the-Late-American-War-Volume-2_5107
+creator:
+  author:
+    agent_name: Richardson, Major (John)
+    alias: Richardson, John
+    birthdate: 1796
+    deathdate: 1852
+    gutenberg_agent_id: '1558'
+    url: http://www.gutenberg.org/2009/agents/1558
+    wikipedia: http://en.wikipedia.org/wiki/John_Richardson_%28author%29
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- War of 1812 -- Fiction'
+- !lcsh 'War stories'
+title: 'The Canadian Brothers; Or, The Prophecy Fulfilled: A Tale of the Late American
+  War — Volume 2'
+url: http://www.gutenberg.org/ebooks/5107

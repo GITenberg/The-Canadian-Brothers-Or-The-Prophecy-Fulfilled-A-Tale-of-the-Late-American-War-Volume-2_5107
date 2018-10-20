@@ -1,5 +1,5 @@
 _repo: The-Canadian-Brothers-Or-The-Prophecy-Fulfilled-A-Tale-of-the-Late-American-War-Volume-2_5107
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,6 +27,7 @@ subjects:
 - !lcc 'PS'
 - !lcsh 'United States -- History -- War of 1812 -- Fiction'
 - !lcsh 'War stories'
+- GITenberg
 title: 'The Canadian Brothers; Or, The Prophecy Fulfilled: A Tale of the Late American
   War — Volume 2'
 url: http://www.gutenberg.org/ebooks/5107
